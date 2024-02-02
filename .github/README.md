@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/4abd6e0f613946553de53.jpg">
+  <img src="https://graph.org/file/5dde07baff72a1523b769.jpg">
 </p>
 
 <p align="center">
